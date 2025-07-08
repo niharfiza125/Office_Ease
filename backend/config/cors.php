@@ -7,7 +7,7 @@ return [
     'allowed_methods' => ['*'],
 
     // ✅ Allow React frontend on localhost:3000
-    'allowed_origins' => ['http://localhost:3000'],
+    'allowed_origins' => ['https://guileless-parfait-87289a.netlify.app'],
 
     'allowed_origins_patterns' => [],
 
